@@ -1,4 +1,4 @@
-<h3>Device Management for Device Diagnostics and Monitoring Function </h3>
+<h3>Device Management for Device Diagnostics and Monitoring Function (MBedOS) </h3>
 
  Retrieval of device information that identifies a device and its model and manufacturer <br>
  Retrieval of device information for the software and firmware installed on the device <br>
